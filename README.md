@@ -1,4 +1,4 @@
-This repository contains the scripts used for the simulation study in Vigié (2022): "A kernel-based first stage in linear instrumental variable models" (pdf included in the repository)>
+This repository contains the scripts used for the simulation study in Vigié (2022): "A kernel-based first stage in linear instrumental variable models" (pdf included in the repository).
 Description of the scripts (more about each function inside the scripts):
 - auxiliary functions.R: contains small functions that are called in the simulation study
 - WMD.R: Implements the Weighted Minimum Distance (WMD) estimator of Antoine and Lavergne (2014) 
